@@ -121,6 +121,10 @@ Confusion Matrix:
  [[1931    9]
  [   9   51]]
 
+###Clone the Repository
+git clone https://github.com/vishalkumar-swe/fraud-detection-system.git
+cd fraud-detection-system
+
 ### Interpretation
 
 - 91% of fraudulent transactions were correctly detected  
