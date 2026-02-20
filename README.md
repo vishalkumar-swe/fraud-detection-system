@@ -167,3 +167,6 @@ data/transactions.csv
 data/featured_transactions.csv
 feature_importance.png
 shap_summary.png
+
+![Feature Importance](feature_importance.png)
+![SHAP Summary](shap_summary.png)
